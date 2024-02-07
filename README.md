@@ -8,6 +8,7 @@ RTL VIEW OF PROCESSOR:
 <img width="802" alt="image3" src="https://github.com/Meets24/RISCV-single-cycle-processor/assets/137986085/457d4eb5-b1ce-43cc-867e-d5db5b8ca2c9">
 
 WAVEFORMS OF INDIVIDUAL MODELS: 
+
 1)alu:
 ![alu](https://github.com/Meets24/RISCV-single-cycle-processor/assets/137986085/31fde5c8-c0c2-400a-94e9-f797b46744f7)
 2)decoder:
